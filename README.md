@@ -1,17 +1,24 @@
-# Alan Vo - Portfolio Website
+# Alan Haiminh Vo – Developer Portfolio
 
-This is my personal portfolio website built with **HTML** and **Tailwind CSS**. It highlights my background, technical skills, and selected projects as a UC Berkeley graduate transitioning into software engineering.
+A clean, responsive personal portfolio website showcasing my background, skills, and projects as a UC Berkeley graduate transitioning into software engineering. Built using HTML and Tailwind CSS with dark mode support and a live resume download feature.
+
+---
 
 ## 🚀 Features
 
-- Responsive design
-- Dark mode toggle (enabled by default)
-- Sections: About, Skills, Projects, Ongoing Work, Contact
-- Easy to update/add new projects
-- Live resume download link
+- ⚡ **Responsive Design** — Looks great on mobile, tablet, and desktop
+- 🌙 **Dark Mode** — Default dark mode with toggle switch
+- 📁 **Modular Sections** — About, Skills, Work Experience, Projects, Ongoing Work, and Contact
+- 📄 **Downloadable Resume** — Live PDF download from GitHub
+- 💻 **Easily Extendable** — Add new sections or projects with minimal HTML edits
+
+---
 
 ## 🛠️ Tech Stack
 
-- HTML
-- Tailwind CSS
-- Google Fonts (Source Sans Pro)
+- **HTML5**
+- **Tailwind CSS**
+- **Google Fonts** – *Source Sans Pro*
+- **Basic JavaScript** – for dark mode toggle
+
+---
