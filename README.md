@@ -31,8 +31,7 @@ Tailwind CSS
 Clone this repository:
 git clone https://github.com/nalavo/AHV-Portfolio.git
 Open index.html in your browser to view the portfolio.
-All styling is handled via Tailwind CSS—no build step required.
+All styling is handled via Tailwind CSS — no build step required.
 📫 Contact
 
 For opportunities or questions, feel free to use the “Contact Me” button on the sidebar, or connect with me on LinkedIn and GitHub.
-
