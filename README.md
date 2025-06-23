@@ -46,7 +46,6 @@ A robust productivity tool featuring **user authentication**, **due dates**, and
 
 ## 📫 **Contact**
 
-** For opportunities or questions, feel free to use the “Contact Me” button on the sidebar, or connect with me on LinkedIn and GitHub.
-
+For opportunities or questions, feel free to use the “Contact Me” button on the sidebar, or connect with me on LinkedIn and GitHub.
 
 
